@@ -1,6 +1,7 @@
 # Khata_Book
 
 Deployed link: https://shiny-fudge-0f1d8e.netlify.app
+
 Bootstrap: As this is an offline version using Bootstrap, you'll need to set up the necessary files. Refer to the Bootstrap Documentation for details on how to include Bootstrap in your project.
 
 Welcome to Khata Book, a frontend application designed to help you manage your personal ledger. This user-friendly tool allows you to keep track of your expenses and earnings effortlessly.
